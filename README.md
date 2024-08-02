@@ -14,6 +14,10 @@
 
 ## Настройка бота
     В /bot/bot.py замените API_TOKEN на ваш API TOKEN
+    Комманды 
+        /start - запуск
+        /message - получение всех сообщений 
+        /new <context> - для создания нового сообщения 
 
 ## Настройка Docker и Docker Compose 
     Сборка Docker образов
